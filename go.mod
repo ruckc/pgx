@@ -9,7 +9,7 @@ require (
 	github.com/gofrs/uuid v4.0.0+incompatible
 	github.com/jackc/pgconn v1.10.1
 	github.com/jackc/pgio v1.0.0
-	github.com/jackc/pgproto3/v2 v2.2.0
+	github.com/jackc/pgproto3/v2 v2.3.3
 	github.com/jackc/pgtype v1.9.1
 	github.com/jackc/puddle v1.2.0
 	github.com/rs/zerolog v1.15.0
